@@ -6,3 +6,10 @@ Despite large experimental and computational efforts aiming to dissect the mecha
 
 
 
+AllFunctions11.R file contains all the functions needed to conduct SWIPE_NMF
+
+GenerateInput file convert raw genomic or functional data into appropriate matrices that can be taken into SWIPE_NMF
+
+NMFFunction is the matrix factorization function used to integrate different data types in a "intermediate integration manner"
+
+RunNMFCluster is the code run the integration method, 
